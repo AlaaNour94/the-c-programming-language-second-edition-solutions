@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "ctype.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "cctype": "c",
+        "cstdlib": "c",
+        "stdlib.h": "c",
+        "uthash.h": "c",
+        "type_traits": "c",
+        "cmath": "c"
+    }
+}
